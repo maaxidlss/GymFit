@@ -78,3 +78,29 @@ button{
 .card h3{
     margin-bottom:15px;
 }
+
+.planes{
+    padding:60px 30px;
+    background-color:#222222;
+}
+
+.plan{
+    background-color:#E63946;
+    padding:20px;
+    margin-top:20px;
+}
+
+.contacto{
+    padding:60px 30px;
+    background-color:#1E1E1E;
+}
+
+.contacto p{
+    margin-bottom:15px;
+}
+
+.footer{
+    background-color:black;
+    text-align:center;
+    padding:20px;
+}
