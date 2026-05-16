@@ -13,3 +13,24 @@ body {
 h1,h2,h3 {
     font-family: 'Poppins', sans-serif;
 }
+
+.header{
+    background-color:#1E1E1E;
+    padding:20px;
+    overflow:hidden;
+}
+
+.header h1{
+    display:inline-block;
+}
+
+nav{
+    float:right;
+    margin-top:10px;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin-left:20px;
+}
