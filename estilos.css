@@ -56,3 +56,25 @@ button{
     background-color:#111111;
     color:white;
 }
+
+.servicios{
+    padding:60px 30px;
+    background-color:#1E1E1E;
+}
+
+.cards{
+    margin-top:30px;
+}
+
+.card{
+    display:inline-block;
+    width:30%;
+    background-color:#111111;
+    padding:20px;
+    margin-right:2%;
+    vertical-align:top;
+}
+
+.card h3{
+    margin-bottom:15px;
+}
